@@ -2,7 +2,7 @@
 
 *HTML project include the following steps:*
 
-1. First part involves creating a form that can receive data from user and send them to the database using self closing tag(<input)
+1. First part involves creating a form that can receive data using self closing tag(input) from user and send them to the database 
 
 2. 2nd part involves displaying different types of data structure using tables
 
